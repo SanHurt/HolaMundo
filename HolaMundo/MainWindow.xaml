@@ -11,7 +11,7 @@
         <TextBlock HorizontalAlignment="Left"
                    Margin="241,85,0,0"
                    TextWrapping="Wrap"
-                   Text="¡Hola mundo!"
+                   Text="¡Hola mundo"
                    VerticalAlignment="Top"
                    FontSize="48"
                    Foreground="Red"
